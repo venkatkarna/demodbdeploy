@@ -1,0 +1,10 @@
+3/7/2024 7:49:04 AM	This log contains information about the import schema operation into project 'Demodb' on computer 'VM001' by user 'venkatesh b'.
+3/7/2024 7:49:04 AM	Deserializing model
+3/7/2024 7:49:04 AM	Resolving model
+3/7/2024 7:49:04 AM	Visiting imported model for types
+3/7/2024 7:49:04 AM	Scanning project for duplicate elements
+3/7/2024 7:49:04 AM	Finished duplicate element processing
+3/7/2024 7:49:05 AM	Processing extra files
+3/7/2024 7:49:05 AM	Finished importing Data-tier Application file.
+3/7/2024 7:49:05 AM	A summary of the import was saved to the following location: C:\Users\venkatesh b\Source\Repos\Demodb\Import Schema Logs\Demodb_20240307074904.log
+3/7/2024 7:49:05 AM	Click Finish to continue...
